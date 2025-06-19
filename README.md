@@ -8,7 +8,7 @@ I enjoy building practical tools, experimenting with models, and solving problem
 ### 1. 💰 Price Alchemists  
 🎓 *Final Project for Avito Analyst Academy (Data Science track)*  
 📸 App to detect the price of an object from a photo. A hands-on exploration into computer vision and regression modeling.  
-📊 [Presentation (Google Slides)](https://docs.google.com/presentation/d/1sfZfzeYIO2v0_R6OlkJXitiW7uSADPvzeDZHifmunX4/edit?usp=sharing) 
+📊 [Presentation (Google Slides)](https://docs.google.com/presentation/d/1sfZfzeYIO2v0_R6OlkJXitiW7uSADPvzeDZHifmunX4/edit?usp=sharing)  
 🔗 [GitHub](https://github.com/vainmoon/PriceAlchemists)
 
 ---
@@ -29,7 +29,7 @@ I enjoy building practical tools, experimenting with models, and solving problem
 
 ### 4. 🍸 Drink Genius Bot  
 🍹 Your personal cocktail expert on Telegram  
-📊 Recommends cocktails based on preferences, shows recipes, and finds similar drinks using ingredient matching.
+📊 Recommends cocktails based on preferences, shows recipes, and finds similar drinks using ingredient matching.  
 🔗 [GitHub](https://github.com/Povladarchik/DrinkGenius-Bot) 
 
 ---
