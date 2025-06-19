@@ -1,5 +1,5 @@
 ## Ivan Popravka | Personal GitHub Profile
-Hi there! 👋 I'm Ivan Popravka, a passionate enthusiast at the intersection of mathematics, machine learning, and software development. My primary interests lie in advanced mathematical domains like delay mathematical biology, differential equations, complex analysis, and functional analysis, but I also love working with classical Machine Learning and Natural Language Processing (NLP).
+Hi there! 👋 I'm Ivan Popravka, a passionate enthusiast at the intersection of mathematics, machine learning, and software development. My primary interests lie in advanced mathematical domains like mathematical biology, delay differential equations, complex analysis, and functional analysis, but I also love working with classical Machine Learning and Natural Language Processing (NLP).
 
 I enjoy building practical tools, experimenting with models, and solving problems that bridge theory and real-world applications. Whether it's automating math checks with LLMs or making cocktail recommendations smarter, I find joy in every line of code. 🚀
 
