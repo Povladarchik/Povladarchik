@@ -6,7 +6,7 @@ I enjoy building practical tools, experimenting with models, and solving problem
 ## 🧪 My Projects
 
 ### 1. 💰 Price Alchemists  
-🎓 *Course Project for Avito Analyst Academy (Data Science track)*  
+🎓 *Final Project for Avito Analyst Academy (Data Science track)*  
 📸 App to detect the price of an object from a photo. A hands-on exploration into computer vision and regression modeling.  
 📊 [Presentation (Google Slides)](https://docs.google.com/presentation/d/1sfZfzeYIO2v0_R6OlkJXitiW7uSADPvzeDZHifmunX4/edit?usp=sharing) 
 🔗 [GitHub](https://github.com/vainmoon/PriceAlchemists)
