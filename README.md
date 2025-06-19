@@ -40,7 +40,7 @@ I enjoy building practical tools, experimenting with models, and solving problem
 🔗 [GitHub](https://github.com/Povladarchik/siam-ml-hack)
 
 
-🤝 Get in Touch
-If you're working on something cool in math, ML, or NLP - or just want to chat about cocktails 😉 - feel free to reach out!
-🌐 Telegram: @povladarchik
+## 🤝 Get in Touch
+If you're working on something cool in math, ML, or NLP - or just want to chat about cocktails 😉 - feel free to reach out!  
+🌐 Telegram: [@povladarchik](https://t.me/povladarchik)  
 📧 Email: ivan.main.popravka@yandex.ru
